@@ -1,11 +1,6 @@
 # Graphics Programming Resources
 
-A hand-picked list of graphics programming resources maintained by graphics programming virtual meetup attendees.
-
-- Meetup page: https://www.meetup.com/Graphics-Programming-Virtual-Meetup
-- Join our Discord: https://discord.gg/TsTDb4uYfR
-- Follow us on Mastodon: https://mastodon.gamedev.place/@graphicsmeetup
-- YouTube channel: https://www.youtube.com/channel/UCbX05PBAE-582PYaRXdjRnw
+A hand-picked list of graphics programming resources.
 
 ## Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
